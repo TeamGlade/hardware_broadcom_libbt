@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.aogp-devs.com
+port=29418
+project=hardware_broadcom_libbt.git
+defaultbranch=5.1
